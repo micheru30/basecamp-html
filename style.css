@@ -1,0 +1,72 @@
+a {
+    color: lime;
+    font-size: 24px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;}
+li {
+    float: right;
+}
+ul {
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+footer{
+background-color: black;
+position: bottom;
+}
+#foottext{
+    color: lime;
+    font-size: 24px;
+}
+.picBackdrop{
+    background-image: url("images/Tatum\ and\ Scarlett.jpg");
+    background-position: 50% 29%;
+    background-size: cover;
+}
+h1{
+    margin: 0;
+    padding: 160px 10px;
+    height: 60px;
+    text-align: center;
+    color: White;
+    font-size: 24px;
+    font-family: cursive;
+}
+h2{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 33.33%;
+}
+.column2{
+    float: left;
+    width: 50%;
+}
+.row:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+
+}
+img{
+    height: ;
+    width: auto;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
